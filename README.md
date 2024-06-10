@@ -94,6 +94,19 @@ This project aims to develop a real-time language translator for voice calls, en
             <img src="Screenshot5.png" width="100%" title="Desktop view - Game Info"/>
         </td>
     </tr>
+    <tr>
+      <td colspan="3" style="text-align: left; font-weight: bold;">Converting English to French</td>
+    </tr>
+   <tr>
+        <td>
+            <img src="Screenshot6.png" width="100%" title="Desktop view - Game Info"/>
+        </td>
+    </tr>
+      <tr>
+        <td>
+            <img src="Screenshot7.png" width="100%" title="Desktop view - Game Info"/>
+        </td>
+    </tr>
 </table>
 ## Link
 [🚀 Live Page](#)
